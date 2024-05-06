@@ -6,4 +6,4 @@ Run command
 node dist/index.ts  
 
 
-Leave time - 22 mins
+Leave time - 26 mins
